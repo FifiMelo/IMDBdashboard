@@ -4,7 +4,7 @@ import requests
 
 url = "https://online-movie-database.p.rapidapi.com/actors/list-most-popular-celebs"
 
-querystring = {"homeCountry":"US","currentCountry":"US","purchaseCountry":"US"}
+querystring = {"currentCountry":"US"}
 
 headers = {
 	"X-RapidAPI-Key": "d38fac4a46mshcae3c95dd27dd25p19e3e2jsnb41485bca785",
