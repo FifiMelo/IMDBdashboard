@@ -4,16 +4,16 @@ import csv
 
 
 
-with open("./actor_bios.json", "r") as file:
+with open("./../jsons/actor_bios.json", "r") as file:
     actor_bio = json.load(file)
 
-with open("./actors_filmography.json", "r") as file:
+with open("./../jsons/actors_filmography.json", "r") as file:
     filmography = json.load(file)
 
-with open("./actors_images.json", "r") as file:
+with open("./../jsons/actors_images.json", "r") as file:
     images = json.load(file)
 
-with open("./actors.csv", "w", encoding='utf-8') as actors_csv:
+with open("./../datatables/actors.csv", "w", encoding='utf-8') as actors_csv:
     writer = csv.writer(actors_csv, delimiter=';')
     writer.writerow(["id","name", "birth.date", "birth.place", "height", "full.name", "gender","trade.marks", "bigraphy","legacy.name" ,"film.ids", "image.urls"])
     i = 0

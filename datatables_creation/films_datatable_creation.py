@@ -1,6 +1,6 @@
 import json
 import csv
-with open("./actors_filmography.json", "r") as file:
+with open("./../jsons/actors_filmography.json", "r") as file:
     filmography = json.load(file)
 
 film_ids = set()
@@ -22,7 +22,7 @@ for actor in filmography:
                 film_content[id]["image_url"] = ''
             film_ids.add(id)
 
-with open("./films.csv", "w", encoding = "utf-8") as file:
+with open("./../datatables/films.csv", "w", encoding = "utf-8") as file:
     writer = csv.writer(file, delimiter=';')
     writer.writerow(["id","title", "year", "image.url"])
     for id in film_ids:

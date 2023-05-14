@@ -1,7 +1,7 @@
 import json
 import requests
 
-with open("./actor_ids.json", "r") as file:
+with open("./../jsons/actor_ids.json", "r") as file:
     actor_ids = json.load(file)
 
 actor_bios = []
@@ -23,5 +23,5 @@ for actor_id in actor_ids:
     )
 
 
-with open("actors_known_for.json", "w") as file:
+with open("./../jsons/actors_known_for.json", "w") as file:
     json.dump(actor_bios, file)

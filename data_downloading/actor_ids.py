@@ -15,5 +15,5 @@ response = requests.get(url, headers=headers, params=querystring)
 
 actor_ids = [actor_id[6:15] for actor_id in response.json()]
 
-with open("actor_ids.json", "w") as json_file:
+with open("./../jsons/actor_ids.json", "w") as json_file:
     json.dump(actor_ids, json_file)

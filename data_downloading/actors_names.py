@@ -1,6 +1,6 @@
 import json
 
-with open("actor_bios.json", "r") as file:
+with open("./../jsons/actor_bios.json", "r") as file:
     actors = json.load(file)
 
 for actor in actors:
