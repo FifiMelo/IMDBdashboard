@@ -1,0 +1,351 @@
+id;actor.id;event.name;category;is.winner;year
+/event/ev0000004/ee0082574/an0982132/;nm1869101;Academy of Science Fiction, Fantasy & Horror Films, USA;Best Supporting Actress;False;2018
+/event/ev0003023/ee0079663/an0990281/;nm1869101;Golden Schmoes Awards;Best T&A of the Year;False;2017
+/event/ev0005660/ee0096920/an1057318/;nm1869101;Films Infest;Best Actress;True;2017
+/event/ev0000296/ee0116368/an1268702/;nm1869101;Satellite Awards;Best Actress in a Motion Picture, Comedy or Musical;False;2019
+/event/ev0000292/ee0115228/an1272086/;nm1869101;Golden Globes, USA;Best Performance by an Actress in a Motion Picture - Musical or Comedy;False;2020
+/event/ev0001985/ee0115729/an1275824/;nm1869101;Detroit Film Critics Society Awards;Breakthrough;False;2019
+/event/ev0007222/ee0115859/an1276987/;nm1869101;Online Association of Female Film Critics;Best Supporting Female;False;2019
+/event/ev0002281/ee0116494/an1290573/;nm1869101;Georgia Film Critics Association (GAFCA);;False;2020
+/event/ev0007090/ee0116593/an1291805/;nm1869101;Latino Entertainment Journalists Association Film Awards;Best Performance by an Actress in a Leading Role;False;2020
+/event/ev0007090/ee0116593/an1292442/;nm1869101;Latino Entertainment Journalists Association Film Awards;;True;2020
+/event/ev0003023/ee0116949/an1298816/;nm1869101;Golden Schmoes Awards;Best Actress of the Year;False;2019
+/event/ev0003023/ee0116949/an1298917/;nm1869101;Golden Schmoes Awards;Breakthrough Performance of the Year;True;2019
+/event/ev0002704/ee0116940/an1299055/;nm1869101;Online Film & Television Association;Best Breakthrough Performance: Female;False;2020
+/event/ev0003547/ee0116981/an1300029/;nm1869101;Gold Derby Awards;Ensemble Cast;False;2020
+/event/ev0003547/ee0116981/an1300580/;nm1869101;Gold Derby Awards;Breakthrough Performer;False;2020
+/event/ev0002704/ee0116940/an1308437/;nm1869101;Online Film & Television Association;Best Ensemble;False;2020
+/event/ev0000846/ee0117771/an1308879/;nm1869101;Spanish Actors Union;Best Actress in an International Production (Mejor Actriz en Producción Internacional);True;2020
+/event/ev0003547/ee0116981/an1314645/;nm1869101;Gold Derby Awards;Ensemble of the Decade;False;2020
+/event/ev0013532/ee0117601/an1322181/;nm1869101;Faro Island Film Festival;Best Ensemble Performance;False;2020
+/event/ev0013532/ee0117601/an1322255/;nm1869101;Faro Island Film Festival;Favorite Actress;False;2020
+/event/ev0002246/ee0118286/an1327508/;nm1869101;IGN Summer Movie Awards;Best Lead Performer in a Movie;False;2019
+/event/ev0000346/ee0122031/an1393806/;nm1869101;Imagen Foundation Awards;Best Actress - Feature Film;False;2020
+/event/ev0001987/ee0115791/an1453171/;nm1869101;Indiana Film Journalists Association, US;Best Actress;False;2019
+/event/ev0000004/ee0128332/an1476167/;nm1869101;Academy of Science Fiction, Fantasy & Horror Films, USA;Best Supporting Actress;True;2021
+/event/ev0027099/ee0128786/an1483310/;nm1869101;Odyssey Awards;Best Support Actress;False;2017
+/event/ev0027099/ee0128608/an1487511/;nm1869101;Odyssey Awards;Breakthrough Star;False;2019
+/event/ev0017986/ee0137949/an1635320/;nm1869101;Blogos de Oro;Best Supporting Actress (Mejor Actriz de reparto);False;2018
+/event/ev0000846/ee0138328/an1640145/;nm1869101;Spanish Actors Union;Best Actress in an International Production (Mejor Actriz en Producción Internacional);True;2022
+/event/ev0024457/ee0138901/an1650994/;nm1869101;Critics Choice Super Awards;Best Actress in an Action Movie;False;2022
+/event/ev0013532/ee0137153/an1788754/;nm1869101;Faro Island Film Festival;Favorite Actress;False;2022
+/event/ev0000292/ee0150662/an1804153/;nm1869101;Golden Globes, USA;Best Performance by an Actress in a Motion Picture - Drama;False;2023
+/event/ev0000163/ee0151600/an1805025/;nm1869101;Chicago Film Critics Association Awards;Best Actress;False;2022
+/event/ev0003546/ee0151601/an1805279/;nm1869101;Phoenix Critics Circle;Best Actress;False;2022
+/event/ev0004240/ee0151766/an1807794/;nm1869101;AACTA International Awards;Best Lead Actress;False;2023
+/event/ev0000403/ee0152161/an1812513/;nm1869101;London Critics Circle Film Awards;Actress of the Year;False;2023
+/event/ev0001984/ee0152542/an1815452/;nm1869101;Alliance of Women Film Journalists;Most Egregious Age Difference Between the Leading Man and the Love Interest;False;2023
+/event/ev0001984/ee0152542/an1815454/;nm1869101;Alliance of Women Film Journalists;She Deserves a New Agent;True;2023
+/event/ev0003095/ee0152987/an1819075/;nm1869101;Internet Film Critic Society;Best Actress;True;2023
+/event/ev0006631/ee0153108/an1821023/;nm1869101;New Mexico Film Critics;Best Actress;True;2022
+/event/ev0001243/ee0148273/an1822070/;nm1869101;Capri, Hollywood;;True;2022
+/event/ev0000598/ee0151270/an1824731/;nm1869101;Screen Actors Guild Awards;Outstanding Performance by a Female Actor in a Leading Role;False;2023
+/event/ev0000123/ee0153283/an1824905/;nm1869101;BAFTA Awards;Best Leading Actress;False;2023
+/event/ev0000003/ee0143647/an1825772/;nm1869101;Academy Awards, USA;Best Performance by an Actress in a Leading Role;False;2023
+/event/ev0025345/ee0153352/an1831471/;nm1869101;Chicago Indie Critics Awards (CIC);Best Actress;False;2023
+/event/ev0007090/ee0154119/an1833789/;nm1869101;Latino Entertainment Journalists Association Film Awards;Best Actress in a Leading Role;False;2023
+/event/ev0000988/ee0154539/an1838519/;nm1869101;Sant Jordi Awards;Best Actress in a Foreign Film (Millor actriu en pel·lícula estrangera);False;2023
+/event/ev0000846/ee0154571/an1839277/;nm1869101;Spanish Actors Union;Best Actress in an International Production (Mejor Actriz en Producción Internacional);True;2023
+/event/ev0002704/ee0158398/an1876085/;nm1869101;Online Film & Television Association;Best Actress;False;2023
+/event/ev0000292/ee0023404/an0066673/;nm0005392;Golden Globes, USA;Best Performance by an Actress in a Television Series - Drama;True;1999
+/event/ev0001009/ee0035652/an0230828/;nm0005392;Character and Morality in Entertainment Awards;;True;2006
+/event/ev0000644/ee0019837/an0244504/;nm0005392;Teen Choice Awards;TV - Choice Actress;False;1999
+/event/ev0000644/ee0019837/an0244510/;nm0005392;Teen Choice Awards;TV - Breakout Performance;True;1999
+/event/ev0000644/ee0032731/an0244633/;nm0005392;Teen Choice Awards;TV - Choice Actress;False;2000
+/event/ev0000644/ee0032961/an0244761/;nm0005392;Teen Choice Awards;TV - Choice Actress;False;2001
+/event/ev0000644/ee0041101/an0244907/;nm0005392;Teen Choice Awards;TV - Choice Actress, Drama;False;2002
+/event/ev0000644/ee0041104/an0245952/;nm0005392;Teen Choice Awards;Movies - Choice Actress: Drama/Action Adventure;False;2006
+/event/ev0000644/ee0041105/an0246411/;nm0005392;Teen Choice Awards;Choice Movie Actress: Drama;False;2008
+/event/ev0000296/ee0033876/an0247991/;nm0005392;Satellite Awards;Outstanding Actress in a Miniseries or a Motion Picture Made for Television;False;2005
+/event/ev0000716/ee0033748/an0270061/;nm0005392;Young Artist Awards;Outstanding Young Ensemble Cast in a Youth Series or Variety Show;False;1993
+/event/ev0000716/ee0033748/an0270270/;nm0005392;Young Artist Awards;Best Young Actress Co-starring in a Motion Picture;False;1993
+/event/ev0000296/ee0045342/an0471115/;nm0005392;Satellite Awards;Best Actress in a Series, Drama;False;2014
+/event/ev0000004/ee0045830/an0502693/;nm0005392;Academy of Science Fiction, Fantasy & Horror Films, USA;Best Actress on Television;False;2014
+/event/ev0002032/ee0046268/an0512618/;nm0005392;Critics Choice Television Awards;Best Actress in a Drama Series;False;2013
+/event/ev0002032/ee0046775/an0516182/;nm0005392;Critics Choice Television Awards;Best Actress in a Drama Series;False;2014
+/event/ev0001984/ee0047262/an0528538/;nm0005392;Alliance of Women Film Journalists;Best Seduction;False;2007
+/event/ev0001984/ee0047262/an0536394/;nm0005392;Alliance of Women Film Journalists;Best Breakthrough Performance;False;2007
+/event/ev0002246/ee0048311/an0554540/;nm0005392;IGN Summer Movie Awards;Best TV Actress;False;2013
+/event/ev0000296/ee0127505/an0589012/;nm0005392;Satellite Awards;Best Actress in a Series, Drama;True;2015
+/event/ev0002887/ee0048740/an0623563/;nm0005392;Women's Image Network Awards;Outstanding Actress Drama Series;False;2013
+/event/ev0002032/ee0056865/an0639497/;nm0005392;Critics Choice Television Awards;Best Actress in a Drama Series;False;2015
+/event/ev0002704/ee0047855/an0644802/;nm0005392;Online Film & Television Association;Best Actress in a Drama Series;False;1999
+/event/ev0002704/ee0047855/an0645217/;nm0005392;Online Film & Television Association;Best Actress in a New Drama Series;True;1999
+/event/ev0003547/ee0058969/an0739983/;nm0005392;Gold Derby Awards;Drama Lead Actress;False;2013
+/event/ev0000646/ee0061054/an0753147/;nm0005392;Television Critics Association Awards;Individual Achievement in Drama;False;2016
+/event/ev0000223/ee0061190/an0757452/;nm0005392;Primetime Emmy Awards;Outstanding Lead Actress in a Drama Series;False;2016
+/event/ev0003547/ee0059325/an0760360/;nm0005392;Gold Derby Awards;Drama Lead Actress;False;2016
+/event/ev0002704/ee0059804/an0773681/;nm0005392;Online Film & Television Association;Best Actress in a Drama Series;True;2016
+/event/ev0002032/ee0062820/an0785544/;nm0005392;Critics Choice Television Awards;Best Actress in a Drama Series;False;2016
+/event/ev0000292/ee0062641/an0790993/;nm0005392;Golden Globes, USA;Best Performance by an Actress in a Television Series - Drama;False;2017
+/event/ev0000530/ee0062749/an0807388/;nm0005392;People's Choice Awards, USA;Favorite Cable TV Actress;False;2017
+/event/ev0000693/ee0063725/an0854734/;nm0005392;Walk of Fame;Television;True;2017
+/event/ev0002246/ee0059232/an0858699/;nm0005392;IGN Summer Movie Awards;Best TV Actress;False;2015
+/event/ev0002246/ee0063535/an0858792/;nm0005392;IGN Summer Movie Awards;Best TV Actress;False;2016
+/event/ev0000223/ee0066096/an0861559/;nm0005392;Primetime Emmy Awards;Outstanding Lead Actress in a Drama Series;False;2017
+/event/ev0003547/ee0063786/an0870036/;nm0005392;Gold Derby Awards;Drama Lead Actress;False;2017
+/event/ev0002704/ee0063762/an0915707/;nm0005392;Online Film & Television Association;Best Actress in a Drama Series;False;2017
+/event/ev0000223/ee0095402/an1040024/;nm0005392;Primetime Emmy Awards;Outstanding Lead Actress in a Drama Series;False;2018
+/event/ev0003547/ee0079508/an1050733/;nm0005392;Gold Derby Awards;Drama Actress;False;2018
+/event/ev0000646/ee0095736/an1062809/;nm0005392;Television Critics Association Awards;Individual Achievement in Drama;True;2018
+/event/ev0002704/ee0078575/an1092213/;nm0005392;Online Film & Television Association;Best Actress in a Drama Series;False;2018
+/event/ev0000292/ee0103384/an1117130/;nm0005392;Golden Globes, USA;Best Performance by an Actress in a Television Series - Drama;False;2019
+/event/ev0000133/ee0103699/an1119709/;nm0005392;Critics Choice Awards;Best Actress in a Drama Series;False;2019
+/event/ev0000598/ee0102158/an1121039/;nm0005392;Screen Actors Guild Awards;Outstanding Performance by an Ensemble in a Drama Series;False;2019
+/event/ev0000296/ee0103930/an1122563/;nm0005392;Satellite Awards;Best Actress in a Series, Drama/Genre;False;2019
+/event/ev0002246/ee0108895/an1184920/;nm0005392;IGN Summer Movie Awards;Best Dramatic TV Performance;True;2018
+/event/ev0003547/ee0105523/an1236496/;nm0005392;Gold Derby Awards;Drama Actress of the Decade;False;2019
+/event/ev0003084/ee0079298/an1530801/;nm0005392;International Online Cinema Awards (INOCA);Best Actress in a Drama Series;True;2018
+/event/ev0003084/ee0055935/an1536223/;nm0005392;International Online Cinema Awards (INOCA);Best Actress in a Drama Series;False;2015
+/event/ev0003084/ee0056088/an1627023/;nm0005392;International Online Cinema Awards (INOCA);Best Actress in a Drama Series;False;2013
+/event/ev0001546/ee0030590/an0091900/;nm1231899;Asian Film Awards;;True;2009
+/event/ev0000361/ee0024856/an0093253/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Leading Role;False;2005
+/event/ev0000245/ee0036632/an0266769/;nm1231899;Filmfare Awards;Best Supporting Actress;False;2004
+/event/ev0000245/ee0036632/an0266804/;nm1231899;Filmfare Awards;Best Debut Actress;True;2004
+/event/ev0000245/ee0031578/an0266854/;nm1231899;Filmfare Awards;Best Supporting Actress;False;2005
+/event/ev0000245/ee0031578/an0266863/;nm1231899;Filmfare Awards;Best Performance by an Actor in a Villainous Role;True;2005
+/event/ev0000245/ee0037363/an0267130/;nm1231899;Filmfare Awards;Best Actress;True;2009
+/event/ev0000415/ee0022978/an0267488/;nm1231899;Zee Cine Awards;Best Debut Actress;False;2004
+/event/ev0000415/ee0027279/an0267614/;nm1231899;Zee Cine Awards;Best Performance by an Actor in a Villainous Role;False;2005
+/event/ev0000245/ee0042200/an0375949/;nm1231899;Filmfare Awards;Best  Actress;False;2012
+/event/ev0000361/ee0023215/an0386314/;nm1231899;Awards of the International Indian Film Academy;Best  Actress in a Leading Role;False;2010
+/event/ev0000361/ee0042717/an0396170/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Leading Role;False;2012
+/event/ev0000361/ee0040773/an0397467/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Leading Role;True;2009
+/event/ev0001173/ee0037150/an0402271/;nm1231899;Apsara Film Producers Guild Awards;Best Actress In A Supporting Role - Movie;False;2006
+/event/ev0000245/ee0042200/an0403437/;nm1231899;Filmfare Awards;Best Actress - Critics;True;2012
+/event/ev0000245/ee0033472/an0403481/;nm1231899;Filmfare Awards;Best  Actress;False;2010
+/event/ev0001173/ee0029475/an0405640/;nm1231899;Apsara Film Producers Guild Awards;Best Actress;True;2009
+/event/ev0000415/ee0043681/an0426596/;nm1231899;Zee Cine Awards;Best Actress;True;2013
+/event/ev0000245/ee0043684/an0455555/;nm1231899;Filmfare Awards;Best  Actress;False;2013
+/event/ev0000361/ee0043756/an0480535/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Leading Role;False;2013
+/event/ev0000415/ee0045715/an0493797/;nm1231899;Zee Cine Awards;International Icon - Female;True;2014
+/event/ev0001936/ee0046219/an0505286/;nm1231899;Times of India Film Awards;Best Actress;True;2013
+/event/ev0001934/ee0046218/an0505408/;nm1231899;Stardust Awards, India;Star of the Year - Actress;True;2013
+/event/ev0001934/ee0046218/an0505416/;nm1231899;Stardust Awards, India;Best Actress - Drama;True;2013
+/event/ev0001934/ee0046217/an0513672/;nm1231899;Stardust Awards, India;Best Actress in a Drama;False;2012
+/event/ev0002260/ee0046822/an0519896/;nm1231899;Videocon India Youth Icon Awards;Entertainment Icon of the Year - Female;True;2009
+/event/ev0002253/ee0047577/an0530499/;nm1231899;The Ghanta Awards;Worst On-Screen Couple;True;2011
+/event/ev0002804/ee0047693/an0534906/;nm1231899;Bollywood Hungama Surfers' Choice Movie Awards;Best Actress;True;2013
+/event/ev0002785/ee0047685/an0535647/;nm1231899;South Africa India Film and Television Awards;Actor of the Year - Female;True;2013
+/event/ev0002008/ee0054861/an0581297/;nm1231899;NDTV Indian of the Year, IN;Entertainer of the Year;True;2010
+/event/ev0003150/ee0055402/an0595986/;nm1231899;Star Box Office India Awards;Ms Moneybags;True;2014
+/event/ev0001934/ee0055294/an0596037/;nm1231899;Stardust Awards, India;Best Actress in a Drama;True;2014
+/event/ev0001173/ee0055502/an0603075/;nm1231899;Apsara Film Producers Guild Awards;Best Actress - Movie;True;2015
+/event/ev0002804/ee0055641/an0608845/;nm1231899;Bollywood Hungama Surfers' Choice Movie Awards;Best Actress;False;2015
+/event/ev0002253/ee0055745/an0610819/;nm1231899;The Ghanta Awards;Worst Miscasting;False;2015
+/event/ev0000361/ee0056770/an0636651/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Leading Role;False;2015
+/event/ev0000467/ee0040914/an0701771/;nm1231899;National Film Awards, India;Best Actress;True;2009
+/event/ev0001173/ee0032380/an0701858/;nm1231899;Apsara Film Producers Guild Awards;Best Actress;True;2010
+/event/ev0001173/ee0042202/an0701859/;nm1231899;Apsara Film Producers Guild Awards;Best Actress - Movie;False;2012
+/event/ev0001173/ee0059127/an0704078/;nm1231899;Apsara Film Producers Guild Awards;Best Actress;False;2016
+/event/ev0001173/ee0059127/an0704080/;nm1231899;Apsara Film Producers Guild Awards;Best Actress;False;2016
+/event/ev0000530/ee0059080/an0720979/;nm1231899;People's Choice Awards, USA;Favorite Actress in a New TV Series;True;2016
+/event/ev0000361/ee0060867/an0749286/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Leading Role;False;2016
+/event/ev0000361/ee0060867/an0749287/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Supporting Role;True;2016
+/event/ev0000530/ee0062749/an0807371/;nm1231899;People's Choice Awards, USA;Favorite Dramatic TV Actress;True;2017
+/event/ev0000644/ee0066252/an0873418/;nm1231899;Teen Choice Awards;Choice Movie Villain;False;2017
+/event/ev0000415/ee0075999/an0939933/;nm1231899;Zee Cine Awards;Extraordinary Global Icon;True;2018
+/event/ev0000644/ee0061227/an0943877/;nm1231899;Teen Choice Awards;Choice TV: Breakout Star;False;2016
+/event/ev0001934/ee0063425/an0953399/;nm1231899;Stardust Awards, India;Global Icon of the Year;True;2017
+/event/ev0002905/ee0055563/an1028953/;nm1231899;Screen Awards, IN;Best Actress;True;2015
+/event/ev0000361/ee0060867/an1035949/;nm1231899;Awards of the International Indian Film Academy;IIFA Award for Woman of the Year;True;2016
+/event/ev0002905/ee0071125/an1037340/;nm1231899;Screen Awards, IN;Best Actress in a Supporting Role;True;2016
+/event/ev0002179/ee0097027/an1044487/;nm1231899;Dada Saheb Phalke Film Festival;Memorable Performance;True;2012
+/event/ev0001173/ee0043741/an1044515/;nm1231899;Apsara Film Producers Guild Awards;Entertainer of The Year;True;2013
+/event/ev0002905/ee0095766/an1046278/;nm1231899;Screen Awards, IN;Best Actress in a Negative Role;True;2012
+/event/ev0002905/ee0095766/an1046283/;nm1231899;Screen Awards, IN;Jodi No. 1;True;2012
+/event/ev0002905/ee0096802/an1046339/;nm1231899;Screen Awards, IN;Best Jodi;True;2013
+/event/ev0002905/ee0048748/an1046348/;nm1231899;Screen Awards, IN;Best Actress;True;2009
+/event/ev0002905/ee0096799/an1046928/;nm1231899;Screen Awards, IN;Best Performance by an Actor in a Negative Role;True;2005
+/event/ev0001173/ee0059127/an1050490/;nm1231899;Apsara Film Producers Guild Awards;Guild Global Honor;True;2016
+/event/ev0002905/ee0057780/an1051595/;nm1231899;Screen Awards, IN;Best Actress;False;2010
+/event/ev0005770/ee0098865/an1059137/;nm1231899;Nickelodeon Kids' Choice Awards, India;Favorite Actress - Movie;True;2013
+/event/ev0005770/ee0098902/an1059880/;nm1231899;Nickelodeon Kids' Choice Awards, India;Favorite Actress - Movie;False;2016
+/event/ev0002905/ee0057780/an1065727/;nm1231899;Screen Awards, IN;Best Actress;False;2010
+/event/ev0000245/ee0055573/an1137517/;nm1231899;Filmfare Awards;Best  Actress;False;2015
+/event/ev0002905/ee0096802/an1151633/;nm1231899;Screen Awards, IN;Best Actress;False;2013
+/event/ev0002905/ee0071125/an1154081/;nm1231899;Screen Awards, IN;Best Actress;False;2016
+/event/ev0001649/ee0107311/an1222129/;nm1231899;IMDb Awards;Fan Favorite;True;2019
+/event/ev0002804/ee0048012/an1238874/;nm1231899;Bollywood Hungama Surfers' Choice Movie Awards;Best Actress;True;2010
+/event/ev0001867/ee0113037/an1239080/;nm1231899;GQ Awards, India;Woman of the Year;True;2010
+/event/ev0001173/ee0042202/an1239982/;nm1231899;Apsara Film Producers Guild Awards;Entertainer of the Year;True;2012
+/event/ev0004432/ee0066696/an1243257/;nm1231899;Bengal Film Journalists' Award;Best Actress (Hindi);True;2005
+/event/ev0001937/ee0046669/an1244227/;nm1231899;BIG Star Entertainment Awards, India;New Talent of the Decade (Female);True;2010
+/event/ev0001937/ee0046283/an1248470/;nm1231899;BIG Star Entertainment Awards, India;Most Entertaining Actress;True;2012
+/event/ev0001937/ee0055295/an1249449/;nm1231899;BIG Star Entertainment Awards, India;Most Entertaining Actress;True;2014
+/event/ev0004583/ee0095779/an1251042/;nm1231899;Lions Gold Awards;Best Actress;True;2015
+/event/ev0001933/ee0114442/an1251653/;nm1231899;Annual Central European Bollywood Awards, India;Best Actress;False;2012
+/event/ev0001933/ee0046549/an1251684/;nm1231899;Annual Central European Bollywood Awards, India;Best Actress;False;2010
+/event/ev0001933/ee0114443/an1251752/;nm1231899;Annual Central European Bollywood Awards, India;Best Actress;False;2009
+/event/ev0002905/ee0094723/an1253613/;nm1231899;Screen Awards, IN;Most Promising Debut Actress;False;2004
+/event/ev0004793/ee0103785/an1256147/;nm1231899;MTV Europe Music Awards;Worldwide Act: African & Indian;False;2015
+/event/ev0002787/ee0047686/an1256863/;nm1231899;Zoom Glam Awards;Most Glam Actress;True;2008
+/event/ev0002192/ee0114733/an1257235/;nm1231899;Priyadarshni Academy Awards;Smita Patil Memorial Award;True;2014
+/event/ev0000415/ee0060255/an1266568/;nm1231899;Zee Cine Awards;Best Actress;False;2016
+/event/ev0000415/ee0060255/an1266569/;nm1231899;Zee Cine Awards;Best Actress;False;2016
+/event/ev0014455/ee0116138/an1281098/;nm1231899;Filmfare Glamour And Style Awards;Global Icon of the Year (Female);True;2016
+/event/ev0000467/ee0110913/an1283084/;nm1231899;National Film Awards, India;Best Film on Environment Conservation / Preservation;True;2019
+/event/ev0000245/ee0059162/an1287928/;nm1231899;Filmfare Awards;Best Supporting Actress;True;2016
+/event/ev0002905/ee0115679/an1288687/;nm1231899;Screen Awards, IN;Best Actress - Critics;False;2020
+/event/ev0002232/ee0046224/an1296505/;nm1231899;Cosmopolitan Fun Fearless Awards;Best Female Actor;True;2012
+/event/ev0002232/ee0046224/an1296514/;nm1231899;Cosmopolitan Fun Fearless Awards;Fun Fearless Female;True;2012
+/event/ev0001935/ee0116849/an1296740/;nm1231899;IBNLive Movie Awards;Best Actress;True;2015
+/event/ev0000245/ee0117474/an1305525/;nm1231899;Filmfare Awards;Best  Actress;False;2020
+/event/ev0001934/ee0047830/an1311256/;nm1231899;Stardust Awards, India;Star of the Year - Actress;True;2009
+/event/ev0001934/ee0109804/an1313154/;nm1231899;Stardust Awards, India;Superstar of Tomorrow - Female;True;2005
+/event/ev0000361/ee0118534/an1318601/;nm1231899;Awards of the International Indian Film Academy;Best Actress in a Leading Role;False;2020
+/event/ev0006495/ee0115448/an1472251/;nm1231899;National Film and Television Awards, USA;Best Supporting Actress;False;2019
+/event/ev0001934/ee0046713/an1524937/;nm1231899;Stardust Awards, India;Star of the Year - Actress;False;2010
+/event/ev0026275/ee0127385/an1614181/;nm1231899;FOI Online Awards;Best Actress in a Leading Role;False;2019
+/event/ev0026275/ee0127747/an1615491/;nm1231899;FOI Online Awards;Best Actress in a Leading Role;False;2015
+/event/ev0000361/ee0040283/an1620533/;nm1231899;Awards of the International Indian Film Academy;Green Globe Award;True;2011
+/event/ev0001937/ee0055295/an1620538/;nm1231899;BIG Star Entertainment Awards, India;Most Entertaining Actress in a Social - Drama Film;True;2014
+/event/ev0004583/ee0137131/an1620539/;nm1231899;Lions Gold Awards;Best Actress;True;2013
+/event/ev0001936/ee0113043/an1620564/;nm1231899;Times of India Film Awards;Best Supporting Actress;True;2016
+/event/ev0001254/ee0114701/an1644937/;nm1231899;Bollywood Awards;Best Actress;False;2006
+/event/ev0001388/ee0031247/an1647497/;nm1231899;Sansui Viewer's Choice Awards;Most Promising Debut Actress;False;2004
+/event/ev0001934/ee0046217/an1647950/;nm1231899;Stardust Awards, India;Best Actress in a Thriller or Action;False;2012
+/event/ev0001934/ee0117909/an1649757/;nm1231899;Stardust Awards, India;Best Supporting Actress;True;2004
+/event/ev0002665/ee0047359/an1657122/;nm1231899;Dainik Bhaskar Bollywood Web Awards;Superstar of the Year (Female);False;2012
+/event/ev0002665/ee0047359/an1657146/;nm1231899;Dainik Bhaskar Bollywood Web Awards;Hottie of the Year;False;2012
+/event/ev0001934/ee0047830/an1657654/;nm1231899;Stardust Awards, India;Star of the Year - Actress;False;2009
+/event/ev0001934/ee0046217/an1658722/;nm1231899;Stardust Awards, India;Star of the Year - Actress;False;2012
+/event/ev0001934/ee0046217/an1658723/;nm1231899;Stardust Awards, India;Star of the Year - Actress;False;2012
+/event/ev0001934/ee0055294/an1660942/;nm1231899;Stardust Awards, India;Best Actress in a Thriller or Action;False;2014
+/event/ev0001934/ee0055294/an1660992/;nm1231899;Stardust Awards, India;Star of the Year - Actress;False;2014
+/event/ev0001934/ee0097049/an1661061/;nm1231899;Stardust Awards, India;Best Actress;False;2016
+/event/ev0001937/ee0046283/an1662314/;nm1231899;BIG Star Entertainment Awards, India;Most Entertaining Actress in a Romantic Role;False;2012
+/event/ev0001937/ee0046284/an1662344/;nm1231899;BIG Star Entertainment Awards, India;Most Entertaining Dancer;False;2013
+/event/ev0001933/ee0046215/an1663398/;nm1231899;Annual Central European Bollywood Awards, India;Best on Screen Couple;False;2007
+/event/ev0001937/ee0059131/an1664524/;nm1231899;BIG Star Entertainment Awards, India;Most Entertaining Actress In a Drama Role;False;2015
+/event/ev0002804/ee0139892/an1664968/;nm1231899;Bollywood Hungama Surfers' Choice Movie Awards;Best Actress;True;2009
+/event/ev0000361/ee0040773/an1669085/;nm1231899;Awards of the International Indian Film Academy;Star of the Decade - Female;False;2009
+/event/ev0001906/ee0064776/an1672557/;nm1231899;Mirchi Music Awards, IN;Album of the Year;False;2016
+/event/ev0019904/ee0140982/an1675932/;nm1231899;Global Film Awards;Best Actress;False;2012
+/event/ev0002193/ee0141082/an1677177/;nm1231899;HT Café Film Awards;Best Actress;False;2005
+/event/ev0001866/ee0141535/an1685053/;nm1231899;People's Choice Awards, India;Best Negative Performance;False;2004
+/event/ev0019904/ee0141766/an1686701/;nm1231899;Global Film Awards;Windows Live Search & Movie Talkies Most Searched Actress;True;2006
+/event/ev0019904/ee0141932/an1686707/;nm1231899;Global Film Awards;Best Actress in a Negative Role;True;2005
+/event/ev0001866/ee0142030/an1687368/;nm1231899;People's Choice Awards, India;Best Actress;True;2008
+/event/ev0002655/ee0048175/an1694311/;nm1231899;HELLO! Hall of Fame Awards, India;Versatile Perfomer of the Year;True;2012
+/event/ev0002655/ee0047358/an1694313/;nm1231899;HELLO! Hall of Fame Awards, India;Global Face of the Year;True;2013
+/event/ev0035841/ee0142587/an1694810/;nm1231899;GQ Men of the Year Awards;Excellence;True;2014
+/event/ev0000415/ee0042201/an1696181/;nm1231899;Zee Cine Awards;Best Actress;False;2012
+/event/ev0002742/ee0047673/an1701858/;nm1231899;HiFlyers Awards;Superstar of the Year - Female;False;2013
+/event/ev0001173/ee0055502/an1713908/;nm1231899;Apsara Film Producers Guild Awards;Hindustan Times Celebrity for a cause;True;2015
+/event/ev0001173/ee0055502/an1713910/;nm1231899;Apsara Film Producers Guild Awards;Dialogue of the year;True;2015
+/event/ev0000415/ee0060255/an1716261/;nm1231899;Zee Cine Awards;Best Actress;False;2016
+/event/ev0001254/ee0037578/an1716790/;nm1231899;Bollywood Awards;Best Actor in a Villain's Role;False;2005
+/event/ev0038746/ee0144261/an1720519/;nm1231899;Style Awards;Super Stylish Universal Star;False;2022
+/event/ev0004583/ee0126335/an1750843/;nm1231899;Lions Gold Awards;Popular Actress;True;2011
+/event/ev0047854/ee0147780/an1767841/;nm1231899;V Shantaram Awards;Best Actress;False;2009
+/event/ev0048381/ee0148437/an1774231/;nm1231899;Pogo Amazing Kids Awards;Most Amazing Actress;False;2005
+/event/ev0048381/ee0148533/an1774472/;nm1231899;Pogo Amazing Kids Awards;Most Amazing Actress;True;2006
+/event/ev0049568/ee0149785/an1786939/;nm1231899;Hitlist OTT Awards;Best Supporting Actor - Female;False;2022
+/event/ev0002232/ee0140580/an1807095/;nm1231899;Cosmopolitan Fun Fearless Awards;Best Critically Acclaimed Actress;True;2013
+/event/ev0001866/ee0046211/an1807120/;nm1231899;People's Choice Awards, India;Favourite Ensemble Cast;False;2012
+/event/ev0002905/ee0057780/an1808031/;nm1231899;Screen Awards, IN;Best Actress (Popular);False;2010
+/event/ev0002905/ee0057780/an1808032/;nm1231899;Screen Awards, IN;Best Actress (Popular);False;2010
+/event/ev0002905/ee0048748/an1811058/;nm1231899;Screen Awards, IN;Best Actress (Popular);False;2009
+/event/ev0002905/ee0055563/an1812583/;nm1231899;Screen Awards, IN;Best Actress - Popular;False;2015
+/event/ev0001173/ee0043741/an1813225/;nm1231899;Apsara Film Producers Guild Awards;Best Actress;False;2013
+/event/ev0053200/ee0153841/an1834608/;nm1231899;Bollywood Life Awards;Social Media Queen;False;2022
+/event/ev0053200/ee0154570/an1839324/;nm1231899;Bollywood Life Awards;Social Media Queen;False;2020
+/event/ev0053200/ee0154570/an1839328/;nm1231899;Bollywood Life Awards;Social Media Couple of the Year;False;2020
+/event/ev0053200/ee0154233/an1845300/;nm1231899;Bollywood Life Awards;Social Media Queen;False;2021
+/event/ev0053200/ee0154233/an1845305/;nm1231899;Bollywood Life Awards;Social Media Couple of the Year;False;2021
+/event/ev0053200/ee0155758/an1853243/;nm1231899;Bollywood Life Awards;Most Popular Female Celebrity;True;2015
+/event/ev0053200/ee0155758/an1853716/;nm1231899;Bollywood Life Awards;Most Fan Friendly Bollywood Celebrity;False;2015
+/event/ev0053200/ee0155758/an1853790/;nm1231899;Bollywood Life Awards;Craziest Fan Following;False;2015
+/event/ev0002905/ee0071125/an1856687/;nm1231899;Screen Awards, IN;Best Ensemble Cast;True;2016
+/event/ev0056168/ee0156879/an1861171/;nm1231899;Masala! Awards;Best Actress;False;2008
+/event/ev0056168/ee0156948/an1861524/;nm1231899;Masala! Awards;Best Actress;False;2009
+/event/ev0057488/ee0158068/an1877077/;nm1231899;Bollywood Hungama Style Icons Awards;Most Stylish Social Warrior;False;2023
+/event/ev0002665/ee0159426/an1884458/;nm1231899;Dainik Bhaskar Bollywood Web Awards;Superstar of the Year (Female);True;2013
+/event/ev0000415/ee0045592/an1885956/;nm1231899;Zee Cine Awards;International Icon - Female;False;2011
+/event/ev0002905/ee0095766/an1888949/;nm1231899;Screen Awards, IN;Best Actress;False;2012
+/event/ev0001935/ee0060047/an1898592/;nm1231899;IBNLive Movie Awards;Best Onscreen Couple;False;2016
+/event/ev0002905/ee0096799/an1898604/;nm1231899;Screen Awards, IN;Jodi No. 1;False;2005
+/event/ev0002905/ee0095766/an1898698/;nm1231899;Screen Awards, IN;Best Actress (Popular);False;2012
+/event/ev0000716/ee0036281/an0283345/;nm0687146;Young Artist Awards;Best Performance in a TV Drama Series - Guest Starring Young Actor;False;2002
+/event/ev0000716/ee0024372/an0372204/;nm0687146;Young Artist Awards;Best Performance in a TV Series (Comedy or Drama) - Supporting Young Actor;False;2007
+/event/ev0000598/ee0043491/an0423335/;nm0687146;Screen Actors Guild Awards;Outstanding Performance by an Ensemble in a Drama Series;False;2013
+/event/ev0000442/ee0042376/an0447356/;nm0687146;Milano International Film Festival Awards (MIFF Awards);;False;2012
+/event/ev0000598/ee0044447/an0482520/;nm0687146;Screen Actors Guild Awards;Outstanding Performance by an Ensemble in a Drama Series;True;2014
+/event/ev0002246/ee0048311/an0554581/;nm0687146;IGN Summer Movie Awards;Best TV Villain;True;2013
+/event/ev0002032/ee0062120/an0693770/;nm0687146;Critics Choice Television Awards;Best Supporting Actor in a Movie Made for Television or Limited Series;True;2016
+/event/ev0003547/ee0058966/an0736560/;nm0687146;Gold Derby Awards;Ensemble of the Year;False;2010
+/event/ev0003547/ee0058963/an0739306/;nm0687146;Gold Derby Awards;Ensemble of the Year;False;2007
+/event/ev0000223/ee0061190/an0757480/;nm0687146;Primetime Emmy Awards;Outstanding Supporting Actor in a Limited Series or a Movie;False;2016
+/event/ev0003547/ee0059325/an0760391/;nm0687146;Gold Derby Awards;TV Movie/Mini Supporting Actor;False;2016
+/event/ev0002704/ee0059804/an0774130/;nm0687146;Online Film & Television Association;Best Supporting Actor in a Motion Picture or Limited Series;False;2016
+/event/ev0000349/ee0062821/an0786639/;nm0687146;Film Independent Spirit Awards;Best Male Lead;False;2017
+/event/ev0000004/ee0082574/an0982416/;nm0687146;Academy of Science Fiction, Fantasy & Horror Films, USA;Best Guest Performance in a Television Series;False;2018
+/event/ev0000223/ee0095402/an1039995/;nm0687146;Primetime Emmy Awards;Outstanding Lead Actor in a Limited Series or Movie;False;2018
+/event/ev0003547/ee0079508/an1050814/;nm0687146;Gold Derby Awards;Movie/Limited Series Actor;False;2018
+/event/ev0006045/ee0102045/an1090812/;nm0687146;Texas Film Awards;Rising Star Award;True;2016
+/event/ev0002704/ee0078575/an1092941/;nm0687146;Online Film & Television Association;Best Actor in a Motion Picture or Limited Series;False;2018
+/event/ev0001985/ee0103656/an1115933/;nm0687146;Detroit Film Critics Society Awards;Best Supporting Actor;False;2018
+/event/ev0000580/ee0103744/an1120118/;nm0687146;San Diego Film Critics Society Awards;Best Comedic Performance;False;2018
+/event/ev0002246/ee0108895/an1185838/;nm0687146;IGN Summer Movie Awards;Best Supporting Performer in a Movie;False;2018
+/event/ev0003547/ee0105523/an1236620/;nm0687146;Gold Derby Awards;TV Movie/Mini Supporting Actor of the Decade;False;2019
+/event/ev0000133/ee0115633/an1272674/;nm0687146;Critics Choice Awards;Best Supporting Actor in a Limited Series or Movie Made for Television;False;2020
+/event/ev0003547/ee0116981/an1300028/;nm0687146;Gold Derby Awards;Ensemble Cast;False;2020
+/event/ev0003547/ee0116981/an1371946/;nm0687146;Gold Derby Awards;Movie/Limited Series Supporting Actor;False;2020
+/event/ev0003547/ee0058965/an1397373/;nm0687146;Gold Derby Awards;Ensemble of the Year;True;2009
+/event/ev0000298/ee0124931/an1418327/;nm0687146;Gotham Awards;Best Actor;False;2021
+/event/ev0001987/ee0125822/an1433816/;nm0687146;Indiana Film Journalists Association, US;Best Actor;False;2020
+/event/ev0001987/ee0103980/an1471009/;nm0687146;Indiana Film Journalists Association, US;Best Supporting Actor;False;2018
+/event/ev0027099/ee0128163/an1473634/;nm0687146;Odyssey Awards;Best Lead Actor;False;2020
+/event/ev0013532/ee0128511/an1505699/;nm0687146;Faro Island Film Festival;Best Ensemble Performance;False;2021
+/event/ev0001400/ee0136135/an1601938/;nm0687146;Washington DC Area Film Critics Association Awards;Best Supporting Actor;False;2021
+/event/ev0001984/ee0136288/an1605344/;nm0687146;Alliance of Women Film Journalists;Best Supporting Actor;False;2022
+/event/ev0000403/ee0136490/an1610380/;nm0687146;London Critics Circle Film Awards;Supporting Actor of the Year;False;2022
+/event/ev0000201/ee0136651/an1612685/;nm0687146;Dallas-Fort Worth Film Critics Association Awards;Best Supporting Actor;False;2021
+/event/ev0025449/ee0136952/an1618335/;nm0687146;Columbus Film Critics Association;Best Supporting Actor;False;2022
+/event/ev0002264/ee0137284/an1628999/;nm0687146;CinEuphoria Awards;Best Ensemble - International Competition;False;2022
+/event/ev0003547/ee0136289/an1634475/;nm0687146;Gold Derby Awards;Ensemble Cast;False;2022
+/event/ev0000123/ee0137960/an1637037/;nm0687146;BAFTA Awards;Best Supporting Actor;False;2022
+/event/ev0000003/ee0131659/an1638367/;nm0687146;Academy Awards, USA;Best Performance by an Actor in a Supporting Role;False;2022
+/event/ev0001128/ee0138367/an1641289/;nm0687146;Chlotrudis Awards;Best Supporting Actor;False;2022
+/event/ev0003084/ee0138565/an1645296/;nm0687146;International Online Cinema Awards (INOCA);Best Ensemble Cast;False;2022
+/event/ev0000866/ee0138830/an1649040/;nm0687146;Vancouver Film Critics Circle;Best Supporting Actor;False;2022
+/event/ev0038052/ee0138847/an1650009/;nm0687146;Minnesota Film Critics Alliance Awards;Best Supporting Actor;False;2022
+/event/ev0001649/ee0079346/an1134245/;nm2962353;IMDb Awards;Breakout Star;True;2018
+/event/ev0000292/ee0045346/an0473623/;nm0272581;Golden Globes, USA;Best Performance by an Actress in a Miniseries or Motion Picture Made for Television;False;2014
+/event/ev0000310/ee0057912/an0677164/;nm0272581;Hamptons International Film Festival;;True;2015
+/event/ev0000133/ee0062911/an0693584/;nm0272581;Critics Choice Awards;Best Actress in an Action Movie;False;2016
+/event/ev0000626/ee0041090/an0713229/;nm0272581;Stockholm Film Festival;;False;2011
+/event/ev0003023/ee0059485/an0713563/;nm0272581;Golden Schmoes Awards;Best T&A of the Year;False;2015
+/event/ev0000786/ee0059687/an0720255/;nm0272581;Empire Awards, UK;Best Female Newcomer;False;2016
+/event/ev0002704/ee0059804/an0721359/;nm0272581;Online Film & Television Association;Best Breakthrough Performance: Female;False;2016
+/event/ev0000896/ee0061697/an0775940/;nm0272581;California Independent Film Festival;Best Actress;True;2016
+/event/ev0003990/ee0061865/an0782057/;nm0272581;Prague Independent Film Festival;Best Actress;True;2016
+/event/ev0001525/ee0060296/an0782079/;nm0272581;Buffalo Niagara Film Festival;Best Actress in a Leading Role;True;2016
+/event/ev0001984/ee0104080/an1126856/;nm0272581;Alliance of Women Film Journalists;Most Egregious Age Difference Between the Leading Man and the Love Interest;True;2019
+/event/ev0001995/ee0116025/an1279624/;nm0272581;Fright Meter Awards;Best Supporting Actress;True;2019
+/event/ev0004793/ee0103935/an1283870/;nm0272581;MTV Europe Music Awards;Best Push Act;False;2012
+/event/ev0002541/ee0116206/an1284107/;nm0272581;Utah Film Critics Association Awards;Best Supporting Actress;False;2019
+/event/ev0001163/ee0117956/an1318532/;nm0272581;Fangoria Chainsaw Awards;Best Supporting Actress;True;2020
+/event/ev0002246/ee0118286/an1327525/;nm0272581;IGN Summer Movie Awards;Best Supporting Performer in a Movie;False;2019
+/event/ev0003081/ee0115734/an1453275/;nm0272581;Women Film Critics Circle Awards;Best Actress;False;2019
+/event/ev0017986/ee0122773/an1461551/;nm0272581;Blogos de Oro;Best Supporting Actress (Mejor Actriz de reparto);False;2020
+/event/ev0000004/ee0128332/an1475744/;nm0272581;Academy of Science Fiction, Fantasy & Horror Films, USA;Best Actress;False;2021
+/event/ev0027099/ee0128608/an1481346/;nm0272581;Odyssey Awards;Best Support Actress;False;2019
+/event/ev0024624/ee0135699/an1603340/;nm0272581;Sunset Film Circle Awards;Best Supporting Actress;False;2021
+/event/ev0026316/ee0127835/an1624381/;nm0272581;Seattle Film Critics Society;Best Villain;False;2019
+/event/ev0000992/ee0137453/an1627256/;nm0272581;Göteborg Film Festival;;True;2022
+/event/ev0001987/ee0136652/an1634974/;nm0272581;Indiana Film Journalists Association, US;Best Actress;False;2021
+/event/ev0024457/ee0138901/an1651085/;nm0272581;Critics Choice Super Awards;Best Actress in a Science Fiction/Fantasy Movie;True;2022
+/event/ev0003023/ee0139482/an1677160/;nm0272581;Golden Schmoes Awards;Best Supporting Actress of the Year;False;2022
+/event/ev0000123/ee0040487/an0132773/;nm0001722;BAFTA Awards;Best Actor;False;2006
+/event/ev0002704/ee0047855/an0541057/;nm0001722;Online Film & Television Association;Best Sci-Fi/Fantasy/Horror Actor;False;1999
+/event/ev0002704/ee0048008/an0547806/;nm0001722;Online Film & Television Association;Best Actor in a Motion Picture or Miniseries;False;2013
+/event/ev0002283/ee0048046/an0558756/;nm0001722;Crime Thriller Awards, UK;Best Leading Actor;False;2011
+/event/ev0002032/ee0062120/an0693765/;nm0001722;Critics Choice Television Awards;Best Supporting Actor in a Drama Series;False;2016
+/event/ev0000446/ee0065281/an0854627/;nm0001722;Monte-Carlo TV Festival;Outstanding Actor in a Drama TV Series;False;2017
+/event/ev0000223/ee0110002/an1203979/;nm0001722;Primetime Emmy Awards;Outstanding Guest Actor in a Comedy Series;False;2019
+/event/ev0000644/ee0032961/an1393884/;nm0001722;Teen Choice Awards;Film - Choice Fight Scene;False;2001
+/event/ev0000644/ee0032961/an1393907/;nm0001722;Teen Choice Awards;Film - Choice Sleazebag;False;2001
+/event/ev0000644/ee0032961/an1394191/;nm0001722;Teen Choice Awards;Film - Choice Wipeout;False;2001
+/event/ev0002264/ee0137284/an1628990/;nm0001722;CinEuphoria Awards;Best Ensemble - International Competition;False;2022

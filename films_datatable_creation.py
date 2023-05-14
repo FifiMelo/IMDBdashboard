@@ -24,7 +24,7 @@ for actor in filmography:
 
 with open("./films.csv", "w", encoding = "utf-8") as file:
     writer = csv.writer(file, delimiter=';')
-    writer.writerow(["title", "year", "image.url"])
+    writer.writerow(["id","title", "year", "image.url"])
     for id in film_ids:
         data = []
         data.append(id)
