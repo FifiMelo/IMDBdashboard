@@ -1,9 +1,9 @@
 library(dplyr)
 library(stringr)
 
-aktorzy <- read.csv("https://raw.githubusercontent.com/FifiMelo/IMDBdashboard/main/datatables/actors.csv", sep = ";")
-filmy <- read.csv("https://raw.githubusercontent.com/FifiMelo/IMDBdashboard/main/datatables/films.csv", sep =";")
-nominacje <- read.csv("https://raw.githubusercontent.com/FifiMelo/IMDBdashboard/main/datatables/nominations.csv", sep = ";")
+aktorzy <- read.csv("./datatables/actors.csv", sep = ";")
+filmy <- read.csv("./datatables/films.csv", sep =";")
+nominacje <- read.csv("./datatables/nominations.csv", sep = ";")
 
 
 format(as.Date(aktorzy$birth.date, format="%Y-%m-%d"),"%Y") -> yearm
