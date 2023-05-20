@@ -1,11 +1,36 @@
 .gallery-button {
-  color: green;
+ margin-top: 5px;
 }
-h1 {
-  color: red;
+
+.biography-button {
+ margin-top: 5px;
+}
+
+.awards-button {
+ margin-top: 5px;
+}
+
+.films-button {
+ margin-top: 5px;
+}
+
+.button {
+  background-color: navy;
+  color: white;
 }
 
 .actor {
-    width: 3;
+    width: 4;
   background-color: lightblue;
+  height:300px;
+}
+
+h3 {
+  display: inline; 
+  font-weight: bold;
+}
+
+p {
+  display:inline; 
+  font-weight:bold;
 }

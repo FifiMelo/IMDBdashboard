@@ -43,13 +43,23 @@ server <- function(input, output) {
     boxes[[i]] <- box(
                   width = 3,
                   class = "actor",
-                  h3(actors$name[i], style = "display:inline; font-weight:bold"),
+                  h3(actors$name[i]),
+                  br(),
+                  p(paste("full name:",actors$full.name[i])),
+                  br(),
+                  p(paste0("born: ", actors$birth.date[i],", ", actors$birth.place[i])),
                   br(),
                   div(class = "gallery-button", style="display:inline-block",
-                      actionButton(paste("gallery", actors$id[i]),  "show gallery")
+                      actionButton(paste("gallery", actors$id[i]),  "gallery", class="button")
                   ),
                   div(class = "biography-button", style="display:inline-block",
-                      actionButton(paste("bio", actors$id[i]),"show biography")
+                      actionButton(paste("bio", actors$id[i]),"biography", class = "button")
+                  ),
+                  div(class = "films-button", style="display:inline-block",
+                      actionButton(paste("bio", actors$id[i]),"films", class = "button")
+                  ),
+                  div(class = "awards-button", style="display:inline-block",
+                      actionButton(paste("bio", actors$id[i]),"awards", class = "button")
                   ),
                   
     )
