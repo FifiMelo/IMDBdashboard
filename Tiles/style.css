@@ -15,13 +15,13 @@
 }
 
 .button {
-  background-color: navy;
+  background-color: green;
   color: white;
 }
 
 .actor {
     width: 4;
-  background-color: lightblue;
+  background-color: white;
   height:300px;
 }
 
@@ -33,4 +33,11 @@ h3 {
 p {
   display:inline; 
   font-weight:bold;
+}
+
+img {
+  margin-top: 30px;
+}
+.film {
+  width: 100%;
 }

@@ -44,7 +44,7 @@ ui <- dashboardPage(
           ## View data action button hidden initially until the dataset is loaded
           shinyjs::hidden(
             div(id = "data_b",style="display:inline-block",
-                actionButton("bio",  "more info")#, icon=icon('more'
+                actionButton("bio",  "plot")#, icon=icon('more'
             )),
           
           ## View plot action button hidden initially until the dataset is loaded
@@ -57,20 +57,19 @@ ui <- dashboardPage(
     
     ## Shiny BS Modal to display the dataset inside a modal
     ## A spinner is also added
-    bsModal(id="dataset", title = "Diamonds Dataset", trigger = "gallery", size="large",
-            #dataTableOutput("data_set"),
-            textOutput("ud", "Hello")
-    ),
-    
-    ## Shiny BS Modal to display the plot inside a modal
-    ## A spinner is also added
-    bsModal(id= "Plot", title = "Plot", trigger = "plot", size="large",
+    # bsModal(id="dataset", title = "Diamonds Dataset", trigger = "gallery", size="large",
+    #         #dataTableOutput("data_set"),
+    #         textOutput("ud", "Hello")
+    # ),
+    # 
+    # ## Shiny BS Modal to display the plot inside a modal
+    # ## A spinner is also added
+    bsModal(id= "Plot", title = "Plot", trigger = "gallery", size="large",
             sliderInput(inputId = "b", label = "Select the bin width value" , min = 50  , max = 500, value = 100),
             br(),
             withSpinner(plotOutput("plot_gg"))
-            
-            
-    )))
+    )
+    ))
 
 ### server code begins below
 server <- function(input, output) {
