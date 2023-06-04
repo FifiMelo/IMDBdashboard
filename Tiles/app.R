@@ -57,7 +57,7 @@ server <- function(input, output) {
     image_urls[length(image_urls)] <- str_sub(image_urls[length(image_urls)], 0, -3)
     images <- list()
     for(j in 1:10) {
-      images[[j]] <- img(src = image_urls[j], width = 400, height = 400)
+      images[[j]] <- img(src = image_urls[j])
     }
     
     #filmy
@@ -88,8 +88,8 @@ server <- function(input, output) {
         style="display:inline-block",
         h3(nominations_df$event.name[j]),
         h4(nominations_df$category[j]),
-        p(paste0("Won: ", current_nominations$is.winner[j])),
-        p(paste0("Year: ", current_nominations$year[j])),
+        p(paste0("Won: ", nominations$is.winner[j])),
+        p(paste0("Year: ", nominations$year[j])),
         br()
       )
     }
@@ -109,7 +109,6 @@ server <- function(input, output) {
                       actionButton(paste0("gallery", actors$id[i]),  "gallery", class="button")
                   ),
                   bsModal(id = paste0("gallerymodal", actors$id[i]), title = paste0(actors$name[i], "'s gallery"), trigger = paste0("gallery", actors$id[i]), size="large",
-    
                     images
                     
                   ),
@@ -134,7 +133,7 @@ server <- function(input, output) {
                   div(class = "awards-button", style="display:inline-block",
                       actionButton(paste0("awards", actors$id[i]),"awards", class = "button")
                   ),
-                  bsModal(id = paste0("awardsmodal", actors$id[i]), title = "Plot", trigger = paste0("awards", actors$id[i]), size="large",
+                  bsModal(id = paste0("awardsmodal", actors$id[i]), title = paste0(actors$name[i], "'s awards and nominations"), trigger = paste0("awards", actors$id[i]), size="large",
                           current_nominations,
                           br()
                   ),

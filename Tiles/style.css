@@ -15,7 +15,7 @@
 }
 
 .button {
-  background-color: green;
+  background-color: black;
   color: white;
 }
 
@@ -37,7 +37,13 @@ p {
 
 img {
   margin-top: 30px;
+  width: 100%;
+  height: 100%;
 }
 .film {
   width: 100%;
+}
+
+.nomination {
+  border: 2px solid black;
 }
